@@ -1,5 +1,6 @@
 # Web-Scraping-E-Commerce-Website-using-BeautifulSoup-and-Selenium
-##. Target Website:  target website:
+This is a side project to practice web scraping.   
+Target Website:  target website:
 https://www.the-citizenry.com/
 
 The phase3.py file is to scrape all the product information into csv.   
